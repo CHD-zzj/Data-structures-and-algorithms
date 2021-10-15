@@ -4,7 +4,6 @@
 #include<stdlib.h>
 #include"函数实现.h"
 int main() {
-	printf("1");
 	//示例一
 	/*
 	int count,i;
